@@ -6,6 +6,8 @@ in this we have:
 3. main.cpp that has all the algo and procedure we will need in order to give grade and fetch data from users about users(data hungry boy of ours)
 
 so that's it for now if you have any query contact 
-no one try to fig out this shit on your and if still you have any query contact mr. Sinha 
+no one try to fig out this shit on your own and if still you have any query contact mr. Sinha 
 
 THANK YOU!!!!!
+
+and we are slaves :)
